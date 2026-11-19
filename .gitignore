@@ -1,0 +1,15 @@
+REVIEW.md
+entry.png
+entry_v*.png
+entry_v6_backup.png
+compare_*.png
+build_image.py
+build_image_v2.py
+build_image_v3.py
+build_image_v4.py
+build_image_v5.py
+build_image_v6.py
+build_image_v8.py
+assets/illustrations/
+assets/photos/
+refs/
