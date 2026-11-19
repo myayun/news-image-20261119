@@ -3,6 +3,7 @@ entry.png
 entry_v*.png
 entry_v6_backup.png
 compare_*.png
+map_zoom_v9.png
 build_image.py
 build_image_v2.py
 build_image_v3.py
